@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d53872ef-047f-4cbc-9a54-923ad7add2d1" name="snap-mysql-quiz" url="http://bootcamp-coders.cnm.edu/~jticer/snap-mysql-quiz">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jticer/public_html/snap-mysql-quiz" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
